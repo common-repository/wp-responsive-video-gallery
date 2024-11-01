@@ -1,0 +1,32 @@
+.rating-area{
+	text-align: center;
+	background: #1db5af;
+	color: #fff;
+	padding: 10px;
+}
+.rating-area a{
+	color: #000;
+	outline: none;
+	text-decoration: none;
+	box-shadow: none;
+	border: none;
+}
+.rating-area a:hover{
+	color: #ff0000;
+	outline: none;
+	text-decoration: none;
+	box-shadow: none;
+	border: none;
+}
+.rating-area a:focus{
+	color: #000;
+	outline: none;
+	text-decoration: none;
+	box-shadow: none;
+	border: none;
+}
+
+
+p.rating-icons span.dashicons.dashicons-star-filled {
+    color: red;
+}
